@@ -5,32 +5,20 @@
 
 ## 🔗 GitHub Repository Links
 
-> **📌 IMPORTANT:** Replace `YOUR_USERNAME` with your actual GitHub username throughout this document.
+> **📌 Repository:** All GitHub links are configured for `https://github.com/nitzannossery/financeguard-ai` ✅
 
-**Main Repository:** `https://github.com/YOUR_USERNAME/financeguard-ai`
+**Main Repository:** `https://github.com/nitzannossery/financeguard-ai` ✅
 
-**How to get your GitHub repository URL:**
-1. Create a new repository on GitHub (or use existing one)
-2. Repository name: `financeguard-ai` (or your preferred name)
-3. Copy the repository URL from GitHub (it will look like: `https://github.com/YOUR_USERNAME/financeguard-ai`)
+**Repository Status:** ✅ Live and Active
 
-**Replace all instances in this document:**
-- `YOUR_USERNAME` → Your actual GitHub username
-- `https://github.com/YOUR_USERNAME/financeguard-ai` → Your full repository URL
+**Quick Links:**
+- **Repository:** `https://github.com/nitzannossery/financeguard-ai`
+- **Live Demo:** `[Add your Streamlit Cloud URL when deployed]`
+- **Video Demo:** `[Add your YouTube/Vimeo link when available]`
+- **LinkedIn Post:** `[Add your LinkedIn post link after publishing]`
 
-**Quick Links Template (fill these in):**
-- **Repository:** `https://github.com/YOUR_USERNAME/financeguard-ai`
-- **Live Demo:** `https://YOUR_APP_URL.streamlit.app` (if deployed on Streamlit Cloud)
-- **Video Demo:** `https://www.youtube.com/watch?v=YOUR_VIDEO_ID` (or Vimeo/other platform)
-- **LinkedIn Post:** `https://www.linkedin.com/posts/YOUR_POST_ID` (after publishing)
-
-**Example (replace with your actual links):**
-```
-Repository: https://github.com/johndoe/financeguard-ai
-Live Demo: https://financeguard-ai.streamlit.app
-Video Demo: https://www.youtube.com/watch?v=abc123xyz
-LinkedIn Post: https://www.linkedin.com/posts/johndoe_activity-1234567890
-```
+**All GitHub references in this document point to:**
+- `https://github.com/nitzannossery/financeguard-ai`
 
 ---
 
@@ -57,7 +45,7 @@ Key Highlights:
 
 Solving real business problems with robust AI engineering. Check out the GitHub repo for the full deep dive!
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/financeguard-ai
+🔗 GitHub: https://github.com/nitzannossery/financeguard-ai
 
 #AIEngineer #MLOps #LangChain #GenerativeAI #FinTech #ProductionAI #LangGraph #RAG #Evaluation
 ```
@@ -85,7 +73,7 @@ Solving real business problems with robust AI engineering. Check out the GitHub 
 
 Excited to share FinanceGuard AI – a production-grade multi-agent system for autonomous financial risk & compliance auditing! 🚀
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/financeguard-ai
+🔗 GitHub: https://github.com/nitzannossery/financeguard-ai
 
 #AIEngineer #MLOps #FinTech #ProductionAI
 ```
@@ -102,7 +90,7 @@ Excited to share FinanceGuard AI – a production-grade multi-agent system for a
 
 Built with LangGraph, RAG, and evaluation rigor.
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/financeguard-ai
+🔗 GitHub: https://github.com/nitzannossery/financeguard-ai
 
 #AIEngineer #MLOps #FinTech
 ```
@@ -258,7 +246,7 @@ tests/evaluation/test_llm_judge.py .............. [95%] ✅
 
 > Production-ready multi-agent system for autonomous financial risk assessment and compliance auditing, validated through 250+ regression-safe test cases and monitored with real-time observability.
 
-[![CI/CD](https://github.com/YOUR_USERNAME/financeguard-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/financeguard-ai/actions)
+[![CI/CD](https://github.com/nitzannossery/financeguard-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/nitzannossery/financeguard-ai/actions)
 [![Tests](https://img.shields.io/badge/tests-254%20passed-brightgreen)](./docs/evaluation_report.md)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -349,7 +337,7 @@ Financial institutions face mounting pressure to assess portfolio risks and ensu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/financeguard-ai.git
+   git clone https://github.com/nitzannossery/financeguard-ai.git
    cd financeguard-ai
    ```
 
@@ -563,7 +551,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **[Your Name]** - AI Engineer specializing in production-ready multi-agent systems
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@nitzannossery](https://github.com/nitzannossery)
 - LinkedIn: [Your Profile](https://linkedin.com/in/YOUR_PROFILE)
 - Email: your.email@example.com
 
@@ -721,7 +709,7 @@ This project goes beyond "cool AI demo" to demonstrate real production engineeri
 - Reliability patterns (circuit breakers, retry logic, graceful degradation)
 
 **Links:**
-- GitHub: https://github.com/YOUR_USERNAME/financeguard-ai
+- GitHub: https://github.com/nitzannossery/financeguard-ai
 - Video Demo: [Add your video link]
 - LinkedIn Post: [Add your LinkedIn post link]
 
